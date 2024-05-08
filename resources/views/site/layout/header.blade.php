@@ -79,7 +79,9 @@
                         <use xlink:href="#discord-icon"></use>
                     </svg></a></li>
                 </ul>
-        
+                <div class="logo" style="margin-left: 80px;">
+                    <img src="{{ url('assets/img/tanssi.png') }}" style=" height: 40px" alt="Scroll">
+                </div>
             <!--/mobbile menu bottom panel-->
                 <div class="nav-right-hand-part">
                     
